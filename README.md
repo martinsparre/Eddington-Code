@@ -10,6 +10,7 @@ How to run the code
 ===========
 
 To compile and run the code do the following:
+
 	make
 	./EddIso Output.bin 1000000
 
