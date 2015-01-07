@@ -122,7 +122,7 @@ void CreateCluster(struct Particle *P, struct Params * Cl)
 	
 	Ndm = Cl->Ndm;
 	
-	for(i=0;i<Ndm;i++);
+	for(i=0;i<Ndm;i++)
 	{
 		P[i].Pos[0]+=Cl->x[0];
 		P[i].Pos[1]+=Cl->x[1];
