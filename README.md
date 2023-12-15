@@ -45,6 +45,9 @@ With the following lines (in EddIso.c) Rho0 and the scale_length and the virial 
 	Cl->scale_length = 1.0;
 	Cl->rvir = 50.;
 
+
+100% authored by Martin Sparre.
+
 The gravitational constant can be set with
 
 	#define G (1.0) // Gravitational constant
